@@ -9,3 +9,7 @@ Install: download the `.apk` on your Android phone, open it, and allow installs 
 | Version | Code | Channel | Date | Notes |
 |---|---|---|---|---|
 | 1.1.0 | 2 | debug | 2026-10-14 | Multi-faculty substitution requests; overflow menu; in-app "Check for Updates" |
+
+## Terms
+
+By downloading or installing LectureX you agree to the [Terms of Service](legal/TERMS_OF_SERVICE.md) and the [Acceptable Use Policy](legal/ACCEPTABLE_USE_POLICY.md). See also the [Privacy Policy](legal/PRIVACY_POLICY.md). Share only the unchanged official APK, together with this link and its SHA-256 checksum (shown on the release page).
